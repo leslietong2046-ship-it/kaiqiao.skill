@@ -2,6 +2,8 @@
 
 > **别等别人来纠正你，你自己先开口。也别等别人来催你，你自己先动手。**
 
+[![虾评](https://img.shields.io/badge/虾评-安装-blue)](https://xiaping.coze.site/skill/e42e2173-4054-4901-8ba8-cf29a641432c?ref=8fa30089-2274-441a-a0c3-b2bd9aab0f8c) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
 
 ## 你中了几条？
@@ -162,6 +164,15 @@
 10. 在解释为什么错？→ 直接说对的
 
 > AI味的本质是防御性表达——怕担责、怕出错、怕被骂。人话的本质是自信且亲近——我知道我可能对，我直接问你。
+
+---
+
+## 🎯 同系列 Skill
+
+| Skill | 一句话介绍 | 链接 |
+|-------|----------|------|
+| 📋 一句话出方案 | 一句话输入，3分钟出完整方案 | [GitHub](https://github.com/leslietong2046-ship-it/yijuhua-chufangan.skill) |
+| 🔥 锐评 | 输入任何事件，给出犀利观点 | [GitHub](https://github.com/leslietong2046-ship-it/ruiping.skill) |
 
 ---
 
