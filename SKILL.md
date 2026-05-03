@@ -2,21 +2,16 @@
 name: kaiqiao
 description: |
   Agent行为校准器，让AI学会"什么时候该问、该干、该拦、该说话"。
-  Triggers: 模糊需求, 反复确认, 方向有坑, 等结果, 授权信号, 偏好过时
-  Does NOT trigger: 简单指令, 明确方向, 授权明确, 小事/容错高
-  Output: 符合"四件事"标准的行为输出（问/干/拦/反馈）
+  触发关键词：开窍、AI行为诊断、prompt检查、助手行为规范、诊断报告、行为校准、该问还是该干
 version: 1.0.0
-user-invocable: true
-metadata: {"openclaw": {"requires": {"bins": ["python3"]}}}
+metadata:
+  openclaw:
+    requires:
+      env: []
+      bins: []
+    primaryEnv: ""
+    emoji: "开窍"
 ---
-
-# 开窍
-
-> **别等别人来纠正你，你自己先开口。也别等别人来催你，你自己先动手。**
-
----
-
-## 安装后你会看到的变化
 
 装上开窍之后，Agent 的行为会发生这些可观测的变化：
 
