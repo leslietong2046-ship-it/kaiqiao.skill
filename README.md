@@ -170,3 +170,22 @@ $ python demo.py "帮我看看这个项目"
 - 初始版本
 - 核心四件事框架
 - ⏰ 过段时间问功能
+
+## Install
+
+```bash
+# Clone and copy to your OpenClaw skills directory
+git clone https://github.com/leslietong2046-ship-it/kaiqiao.skill.git
+cp -r kaiqiao.skill ~/.openclaw/skills/
+
+# Or just paste the repo URL in your OpenClaw chat
+```
+
+## More Skills
+
+- [kaiqiao](https://github.com/leslietong2046-ship-it/kaiqiao.skill) - Agent什么时候该问/该拦/该闭嘴干
+- [一句话出方案](https://github.com/leslietong2046-ship-it/yijuhua-chufangan.skill) - 一句话输入5步出完整方案
+- [锐评](https://github.com/leslietong2046-ship-it/ruiping.skill) - 追观点不追热点
+- [奇门遁甲](https://github.com/leslietong2046-ship-it/qimen-dunjia.skill) - 一句话直断九宫排盘
+- [黄大仙灵签](https://github.com/leslietong2046-ship-it/huangdaxian-lingqian.skill) - 抽签解签心诚则灵
+
