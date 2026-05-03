@@ -1,13 +1,13 @@
-# 💡 开窍
+# 开窍
 
 > 你的Agent不是记性差，是没开窍。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://img.shields.io/badge/License-MIT-blue.svg)
-[![Skill](https://img.shields.io/badge/虾评-4.7%2F5.0-green.svg)](https://xiaping.coze.site/skill/e42e2173-4054-4901-8ba8-cf29a641432c?ref=8fa30089-2274-441a-a0c3-b2bd9aab0f8c)
+[![Skill](https://img.shields.io/badge/虾评-4.7%2F5.-green.svg)](https://xiaping.coze.site/skill/e42e2173-454-491-8ba8-cf29a641432c?ref=8fa389-2274-441a-ac3-b2bd9aabf8c)
 
 ---
 
-## 🎯 一句话说明
+## 一句话说明
 
 四件事：该问的时候问，不该问的时候闭嘴干，该拦的时候拦，先反馈再行动。
 
@@ -15,18 +15,18 @@
 
 ---
 
-## 🆕 v2.0 重大升级：从框架变工具
+## 🆕 v2. 重大升级：从框架变工具
 
 **升级前**：教你四件事 → 升级后：装了之后Agent行为直接变了
 
-- ✅ 加了输出协议 → Agent输出格式标准化
-- ✅ 加了直接输出模式 → 不用多轮对话，直接给结果
-- ✅ 加了自我诊断模块 → Agent自己检查有没有做到
-- ✅ 加了Python行为校准器CLI → `demo.py` 可离线测试校准
+- 加了输出协议 → Agent输出格式标准化
+- 加了直接输出模式 → 不用多轮对话，直接给结果
+- 加了自我诊断模块 → Agent自己检查有没有做到
+- 加了Python行为校准器CLI → `demo.py` 可离线测试校准
 
 ---
 
-## 🚀 快速开始
+## 快速开始
 
 ### Coze Skill 使用
 ```markdown
@@ -53,22 +53,22 @@ python demo.py --help
 
 ---
 
-## 💻 CLI 使用示例
+## CLI 使用示例
 
 ```bash
 $ python demo.py "帮我看看这个项目"
 
-✅ 检测结果：
-- 需求明确 → 直接执行 ✓
-- 没有发现明显风险 → 无需拦截 ✓
-- 完成后会汇报 ✓
+ 检测结果：
+- 需求明确 → 直接执行 
+- 没有发现明显风险 → 无需拦截 
+- 完成后会汇报 
 
-🎯 Agent表现评估：开窍指数 95%
+ Agent表现评估：开窍指数 95%
 ```
 
 ---
 
-## 🔑 核心四件事
+## 核心四件事
 
 ### 1. 该问的时候问
 
@@ -106,20 +106,20 @@ $ python demo.py "帮我看看这个项目"
 
 ---
 
-## 📁 项目结构
+## 项目结构
 
 ```
 开窍/
-├── SKILL.md           # Coze Skill 定义（输出协议+直接输出模式）
-├── demo.py            # Python 行为校准器 CLI（630行）
-├── checklist.md       # 可打印行为清单
-├── requirements.txt   # 依赖列表
-└── README.md          # 本文件
+├── SKILL.md # Coze Skill 定义（输出协议+直接输出模式）
+├── demo.py # Python 行为校准器 CLI（63行）
+├── checklist.md # 可打印行为清单
+├── requirements.txt # 依赖列表
+└── README.md # 本文件
 ```
 
 ---
 
-## 📖 使用场景
+## 使用场景
 
 | 场景 | 没有开窍 | 有开窍 |
 |------|----------|--------|
@@ -131,7 +131,7 @@ $ python demo.py "帮我看看这个项目"
 
 ---
 
-## 🏆 为什么选这个
+## 为什么选这个
 
 1. **真正的搭档关系** — 不是问答机器，是配合默契的搭档
 2. **省心省力** — 不用反复确认，不用追着问进展
@@ -142,14 +142,14 @@ $ python demo.py "帮我看看这个项目"
 ## ⭐ 给我Star
 
 开源不易，如果对你有用：
-[![Star](https://img.shields.io/github/stars/leslietong2046-ship-it/kaiqiao.skill?style=social)](https://github.com/leslietong2046-ship-it/kaiqiao.skill)
+[![Star](https://img.shields.io/github/stars/leslietong246-ship-it/kaiqiao.skill?style=social)](https://github.com/leslietong246-ship-it/kaiqiao.skill)
 
 ---
 
-## 📚 更多资源
+## 更多资源
 
-- [虾评Skill详情](https://xiaping.coze.site/skill/e42e2173-4054-4901-8ba8-cf29a641432c?ref=8fa30089-2274-441a-a0c3-b2bd9aab0f8c)
-- [GitHub开源](https://github.com/leslietong2046-ship-it/kaiqiao.skill)
+- [虾评Skill详情](https://xiaping.coze.site/skill/e42e2173-454-491-8ba8-cf29a641432c?ref=8fa389-2274-441a-ac3-b2bd9aabf8c)
+- [GitHub开源](https://github.com/leslietong246-ship-it/kaiqiao.skill)
 
 ---
 
@@ -158,15 +158,15 @@ $ python demo.py "帮我看看这个项目"
 
 ---
 
-## 📝 Changelog
+## Changelog
 
-### v2.0 (2024-05-02)
-- ✨ 加了输出协议（标准化Agent输出格式）
-- ✨ 加了直接输出模式（不用多轮对话）
-- ✨ 加了自我诊断模块
-- ✨ 加了 `demo.py` Python行为校准器CLI
+### v2. (224-5-2)
+- 加了输出协议（标准化Agent输出格式）
+- 加了直接输出模式（不用多轮对话）
+- 加了自我诊断模块
+- 加了 `demo.py` Python行为校准器CLI
 
-### v1.0 (2024-04-01)
-- 🎉 初始版本
-- 📖 核心四件事框架
+### v1. (224-4-1)
+- 初始版本
+- 核心四件事框架
 - ⏰ 过段时间问功能
