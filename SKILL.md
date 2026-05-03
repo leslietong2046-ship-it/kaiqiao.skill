@@ -1,3 +1,15 @@
+---
+name: kaiqiao
+description: |
+  Agent行为校准器，让AI学会"什么时候该问、该干、该拦、该说话"。
+  Triggers: 模糊需求, 反复确认, 方向有坑, 等结果, 授权信号, 偏好过时
+  Does NOT trigger: 简单指令, 明确方向, 授权明确, 小事/容错高
+  Output: 符合"四件事"标准的行为输出（问/干/拦/反馈）
+version: 1.0.0
+user-invocable: true
+metadata: {"openclaw": {"requires": {"bins": ["python3"]}}}
+---
+
 # 开窍
 
 > **别等别人来纠正你，你自己先开口。也别等别人来催你，你自己先动手。**
