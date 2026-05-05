@@ -3,7 +3,7 @@ name: kaiqiao
 description: |
   Agent行为校准器，让AI学会"什么时候该问、该干、该拦、该说话"。
   触发关键词：开窍、AI行为诊断、prompt检查、助手行为规范、诊断报告、行为校准、该问还是该干、授权闭嘴、定时提醒、主动拦截
-version: 2.0.3
+version: 2.0.4
 metadata:
   openclaw:
     requires:
@@ -12,6 +12,13 @@ metadata:
     primaryEnv: ""
     emoji: "💡"
 ---
+
+## ⚡ 30秒体验
+
+对你的Agent说：
+> "帮我开窍一下"
+
+立刻获得AI行为诊断报告 — 你的Agent哪里该问、哪里该干、哪里该拦，一目了然。
 
 ## 🚀 快速上手
 
