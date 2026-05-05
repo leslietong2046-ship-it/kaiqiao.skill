@@ -3,7 +3,7 @@ name: kaiqiao
 description: |
   Agent行为校准器，让AI学会"什么时候该问、该干、该拦、该说话"。
   触发关键词：开窍、AI行为诊断、prompt检查、助手行为规范、诊断报告、行为校准、该问还是该干、授权闭嘴、定时提醒、主动拦截
-version: 1.0.7
+version: 2.0.0
 metadata:
   openclaw:
     requires:
@@ -470,3 +470,28 @@ Agent 安装开窍后，定期检查自己有没有做到：
 它只补一个缺口：别人都教Agent怎么记住、怎么进化，没人教它什么时候该问、该干、该拦、该说话。
 
 开窍是粘合剂，不是替代品。
+
+---
+
+## 🔧 CLI用法（命令行工具）
+
+如需在命令行检查prompt是否符合"四件事"标准，可使用 `references/kaiqiao.py`：
+
+```bash
+# 查看帮助
+python references/kaiqiao.py --help
+
+# 检查单个prompt
+python references/kaiqiao.py --check "帮我写个方案"
+
+# 检查文件
+python references/kaiqiao.py --check prompt.txt
+
+# 交互式自我诊断
+python references/kaiqiao.py --diagnose
+
+# 查看检查清单
+python references/kaiqiao.py --list
+```
+
+**注意**：CLI工具为可选辅助，主要使用方式是在对话中让Agent自我检查。
